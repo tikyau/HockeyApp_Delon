@@ -1,0 +1,1 @@
+C:\Users\tiyau\Desktop\AppInsights_Demo\WindowsApp\WindowsApp\WindowsApp.csproj;arm
